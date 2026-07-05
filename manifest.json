@@ -1,0 +1,12 @@
+{
+  "minecraftVersion": "1.21.1",
+  "neoForgeVersion": "21.1.172",
+  "files": [
+    {
+      "path": "mods/test.txt",
+      "url": "PON_AQUI_LA_URL_RAW_DE_GITHUB",
+      "sha256": "",
+      "size": 0
+    }
+  ]
+}
