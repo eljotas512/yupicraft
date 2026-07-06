@@ -4,7 +4,7 @@
   "files": [
     {
       "path": "mods/test.txt",
-      "url": "PON_AQUI_LA_URL_RAW_DE_GITHUB",
+      "url": "https://raw.githubusercontent.com/eljotas512/yupicraft/refs/heads/main/yupicraft.txt",
       "sha256": "",
       "size": 0
     }
